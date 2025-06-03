@@ -33,7 +33,7 @@ CSA Bot is a Discord bot built with Python and `discord.py`, designed to help ma
    ```bash
    git clone https://github.com/yourusername/csa-bot.git
    cd csa-bot
-````
+   ```
 
 2. **Install dependencies:**
 
