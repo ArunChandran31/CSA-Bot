@@ -14,7 +14,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-secret_role = "Clan Chief"
+secret_role = "Clan Chief" #clan chief - moderator role
 
 @bot.event
 async def on_ready():
